@@ -1,5 +1,5 @@
 Daftar Kewajiban
 - Kredit Kendaraan
-  1. ROKET
-  2. Kapal
+   1. Motor
+   2. Pesawat
 - Cicilan Pinjaman
