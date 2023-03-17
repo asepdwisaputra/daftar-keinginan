@@ -1,5 +1,5 @@
 Daftar Kewajiban
 - Kredit Kendaraan
-  1. Motor
-  2. Pesawat
+   1. Motor
+   2. Pesawat
 - Cicilan Pinjaman
